@@ -13,7 +13,7 @@ const images = [
   },
 ];
 
-const listGallery = document.querySelector(".gallery");
+const listGallery = document.querySelector(".mini-gallery");
 
 console.log("listGallery :>> ", listGallery);
 
