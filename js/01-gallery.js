@@ -11,7 +11,6 @@ const markup = galleryItems
     return `<li>
     <a href="large-image.jpg">
     <img src="${item.preview}" alt="${item.description}"  data-source="${item.original}"/>
-    <p>${item.description}</p>
     </a>
 
 </li>`;
