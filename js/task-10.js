@@ -7,9 +7,9 @@ inputEl.addEventListener("input", onSearch);
 createBtn.addEventListener("click", createBoxes);
 destroyBtn.addEventListener("click", destroyBoxes);
 
-function onSearch() {}
-function createBoxes(amount) {}
-function destroyBoxes() {}
+// function onSearch() {}
+// function createBoxes(amount) {}
+// function destroyBoxes() {}
 
 // Створи функцію createBoxes(amount),
 //яка приймає один параметр - число.
